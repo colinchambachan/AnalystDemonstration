@@ -1,0 +1,2 @@
+% function 'a' returns different values based on the difference between 'i' and 'j': if the difference is less than 2, it returns 'j^3'; otherwise, it returns 'i + 2*j'
+a = @(i,j) (abs(i-j)<2)*j^3+(abs(i-j)>=2)*(i+2*j)
