@@ -1,6 +1,6 @@
 # Data Demonstration Repo
 
-The purpose of this repository is to exhibit my capabilities and qualifications for a Data Science/Analyst position
+The purpose of this repository is to exhibit my capabilities and qualifications for a Data-related position
 
 ## Directories
 
